@@ -1,14 +1,77 @@
 {
   "main": {
-    "id": "52db127ec620e644",
+    "id": "49011b83eac35037",
     "type": "split",
     "children": [
       {
-        "id": "b889d12d453437cd",
+        "id": "4eb2d9aa0b42cccf",
         "type": "tabs",
         "children": [
           {
-            "id": "20f4bc0d0bb7a2f5",
+            "id": "c54c349e39028abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto UnamIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto UnamIA"
+            }
+          },
+          {
+            "id": "35ac7b716d0f0745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "9db6750ff78065da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 1"
+            }
+          },
+          {
+            "id": "b8e8fc677a009f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mediano Impacto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mediano Impacto"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ae812bf3267d84bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c489ae2f34d11db4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +86,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "49ae48c25f74ad95",
+    "id": "b5602c47b95206aa",
     "type": "split",
     "children": [
       {
-        "id": "63b988b4f02863a9",
+        "id": "d371e44801e20158",
         "type": "tabs",
         "children": [
           {
-            "id": "5f60e060b882f65a",
+            "id": "0cbb4717cb701284",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +107,7 @@
             }
           },
           {
-            "id": "571ac0fc9cee1a2a",
+            "id": "006c49ca9fc5f069",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +124,7 @@
             }
           },
           {
-            "id": "fc00cf19ec04c4cc",
+            "id": "a470ee3aa2917e0a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +140,15 @@
     "width": 300
   },
   "right": {
-    "id": "9db841102b687d2b",
+    "id": "180aebb494be780d",
     "type": "split",
     "children": [
       {
-        "id": "b76ff85baf3ccbb8",
+        "id": "73747b183f99ab08",
         "type": "tabs",
         "children": [
           {
-            "id": "271225cb263da6ed",
+            "id": "653b571715c99491",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +166,7 @@
             }
           },
           {
-            "id": "1e3c76ec3725ccb1",
+            "id": "36a42d7649bb5fba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +179,7 @@
             }
           },
           {
-            "id": "1183cdac63a1e865",
+            "id": "b0614343082ba095",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +194,7 @@
             }
           },
           {
-            "id": "744d42571c62c13b",
+            "id": "5c05950dfbcf6278",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -153,59 +216,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "20f4bc0d0bb7a2f5",
+  "active": "c489ae2f34d11db4",
   "lastOpenFiles": [
-    "Proyectos/ProyectoUni/Mediano Impacto.md",
-    "Proyectos/ProyectoUni/Sin título.md",
-    "Proyectos/ProyectoUni/Sin título 2.md",
-    "Proyectos/ProyectoUni/Sin título 1.md",
-    "Proyectos/ProyectoUni/Proyecto UnamIA.md",
-    "Proyectos/ProyectoUni",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Teoría General de Sistemas.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Tecnología.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Laboratorio de Sistemas de Información.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Ciclo de Vida de los Sistemas de Información.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Ideologías.md",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Cultura.md",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Civilización.md",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Análisis y Toma de Decisiones.md",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones",
-    "Proyectos/7moSemestre/Seguridad Informatica/¿Qué es la seguridad informática?.md",
-    "Proyectos/7moSemestre/Seguridad Informatica/Seguridad Informática.md",
-    "Proyectos/7moSemestre/Seguridad Informatica/Historia y Estructura de la Información.md",
-    "Proyectos/7moSemestre/Seguridad Informatica",
-    "Proyectos/7moSemestre/Imagenes/Sin título.base",
-    "Proyectos/7moSemestre/Imagenes/WhatsApp Image 2025-08-17 at 18.44.28.jpeg",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250821112536.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250821112233.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250821111851.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250821110554.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250818115019.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250818083925.png",
-    "Proyectos/7moSemestre/Imagenes",
-    "Proyectos/7moSemestre/Séptimo Semestre.md",
-    "Proyectos/7moSemestre/Tareas.md",
-    "Proyectos/7moSemestre/Sin título.base",
-    "Proyectos/7moSemestre/Francés/Nombres - Números.md",
-    "Proyectos/7moSemestre/Francés/Mois de l'année - Meses del año.md",
-    "Proyectos/7moSemestre/Francés/Jours de la semaine - Días de la Semana.md",
-    "Proyectos/7moSemestre/Francés/Francés.md",
-    "Proyectos/7moSemestre/Francés/Alfabeto Fónetico.md",
-    "Proyectos/7moSemestre/Francés",
-    "Proyectos/7moSemestre",
-    "Linux/VisualizarTemp.md",
-    "Linux",
-    "Proyectos/Git y GitHub/Atajos condicionados.md",
-    "Readme.md"
+    "Mediano Impacto.md",
+    "Proyecto UnamIA.md",
+    "Sin título 2.md",
+    "Sin título 1.md",
+    "Sin título.md"
   ]
 }

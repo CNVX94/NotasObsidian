@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "854c42a5b34acd1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce02d9a737ae1c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcd38c610685d931",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagenes/Pasted image 20250821112233.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250821112233"
+            }
+          },
+          {
+            "id": "65854a0ee29d643e",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Sin título.base",
+                "viewName": "Tabla"
+              },
+              "icon": "lucide-table",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "925c89aca838931a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis y Toma de Decisiones/Análisis y Toma de Decisiones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análisis y Toma de Decisiones"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7694507a772975c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a4e424cc9456bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702bf629f01829d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "768130d58caa25c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "74c8be9662cb6424",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3fe91a09300d1594",
+    "type": "split",
+    "children": [
+      {
+        "id": "194d76c95537e807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89668f9bab711bc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Séptimo Semestre.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Séptimo Semestre"
+            }
+          },
+          {
+            "id": "e4bca12506181803",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Séptimo Semestre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Séptimo Semestre"
+            }
+          },
+          {
+            "id": "affab74054fece9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c21bc01e8c20ec20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Seguridad Informática.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Seguridad Informática"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "65854a0ee29d643e",
+  "lastOpenFiles": [
+    "Laboratorio de Sistemas de Información/Teoría General de Sistemas.md",
+    "Sin título.base",
+    "Laboratorio de Sistemas de Información/Laboratorio de Sistemas de Información.md",
+    "Análisis y Toma de Decisiones/Análisis y Toma de Decisiones.md",
+    "Laboratorio de Sistemas de Información/Tecnología.md",
+    "Séptimo Semestre.md",
+    "Imagenes/Sin título.base",
+    "Análisis y Toma de Decisiones/Civilización.md",
+    "Imagenes/Pasted image 20250821110554.png",
+    "Imagenes/Pasted image 20250821112233.png",
+    "Imagenes/Pasted image 20250821111851.png",
+    "Tareas.md",
+    "Imagenes/Pasted image 20250821112536.png",
+    "Laboratorio de Sistemas de Información/Ciclo de Vida de los Sistemas de Información.md",
+    "Francés/Jours de la semaine - Días de la Semana.md",
+    "Francés/Nombres - Números.md",
+    "Francés/Francés.md",
+    "Francés/Alfabeto Fónetico.md",
+    "Seguridad Informatica/Seguridad Informática.md",
+    "Análisis y Toma de Decisiones/Cultura.md",
+    "Análisis y Toma de Decisiones/Ideologías.md",
+    "Francés/Mois de l'année - Meses del año.md",
+    "Francés/in título.md",
+    "Seguridad Informatica/Historia y Estructura de la Información.md",
+    "Francés",
+    "Seguridad Informatica/¿Qué es la seguridad informática?.md",
+    "Laboratorio de Sistemas de Información",
+    "Análisis y Toma de Decisiones",
+    "Seguridad Informatica",
+    "Imagenes/Pasted image 20250818115019.png",
+    "Imagenes/Pasted image 20250818083925.png",
+    "Bienvenido.md",
+    "Imagenes",
+    "Imagenes/WhatsApp Image 2025-08-17 at 18.44.28.jpeg"
+  ]
+}
