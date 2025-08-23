@@ -11,10 +11,14 @@
             "id": "20f4bc0d0bb7a2f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Git y GitHub/Cambios en Commits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cambios en Commits"
             }
           }
         ]
@@ -164,6 +168,11 @@
   },
   "active": "20f4bc0d0bb7a2f5",
   "lastOpenFiles": [
+    "Proyectos/Git y GitHub/Git.md",
+    "Token Externo.md",
+    "Proyectos/Git y GitHub/GitHub.md",
+    "Proyectos/Git y GitHub/Push.md",
+    "Proyectos/Git y GitHub/Primeros pasos.md",
     "Proyectos/ProyectoUni/Mediano Impacto.md",
     "Proyectos/ProyectoUni/Sin título.md",
     "Proyectos/ProyectoUni/Sin título 2.md",
@@ -199,13 +208,8 @@
     "Proyectos/7moSemestre/Francés/Nombres - Números.md",
     "Proyectos/7moSemestre/Francés/Mois de l'année - Meses del año.md",
     "Proyectos/7moSemestre/Francés/Jours de la semaine - Días de la Semana.md",
-    "Proyectos/7moSemestre/Francés/Francés.md",
-    "Proyectos/7moSemestre/Francés/Alfabeto Fónetico.md",
     "Proyectos/7moSemestre/Francés",
     "Proyectos/7moSemestre",
-    "Linux/VisualizarTemp.md",
-    "Linux",
-    "Proyectos/Git y GitHub/Atajos condicionados.md",
-    "Readme.md"
+    "Linux"
   ]
 }
