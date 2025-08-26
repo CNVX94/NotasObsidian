@@ -1,3 +1,5 @@
+#Facilidades #Linux
+
 Aquí tenemos el código para simplificar la llamada al monitor de temperaturas:
 
 ```bash

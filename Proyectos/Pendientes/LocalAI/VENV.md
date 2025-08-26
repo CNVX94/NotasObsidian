@@ -1,4 +1,4 @@
-#Programacion #Python
+#linux #Programacion #Python
 
 ## Pensamientos
 

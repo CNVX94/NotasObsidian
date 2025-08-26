@@ -1,4 +1,4 @@
-#Idea1
+#Idea
 
 Propongo lo siguiente:
 

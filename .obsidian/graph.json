@@ -5,8 +5,100 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#GitHub",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "#Git",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "#Obsidian",
+      "color": {
+        "a": 1,
+        "rgb": 11435216
+      }
+    },
+    {
+      "query": "#Redes",
+      "color": {
+        "a": 1,
+        "rgb": 7340032
+      }
+    },
+    {
+      "query": "#Universidad",
+      "color": {
+        "a": 1,
+        "rgb": 5413856
+      }
+    },
+    {
+      "query": "#LSI",
+      "color": {
+        "a": 1,
+        "rgb": 11848704
+      }
+    },
+    {
+      "query": "#SeguridadInformatica  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "#TomadeDecisiones  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "#Frances",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "#Diario",
+      "color": {
+        "a": 1,
+        "rgb": 6908265
+      }
+    },
+    {
+      "query": "#Linux",
+      "color": {
+        "a": 1,
+        "rgb": 15073280
+      }
+    },
+    {
+      "query": "#Idea",
+      "color": {
+        "a": 1,
+        "rgb": 6684927
+      }
+    },
+    {
+      "query": "#Pendientes",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -18,5 +110,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.26443862376454275,
-  "close": false
+  "close": true
 }
