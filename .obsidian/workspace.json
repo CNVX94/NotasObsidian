@@ -4,24 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "b1bf52ee1a1533eb",
+        "id": "ac6ce7ccd030f3b9",
         "type": "tabs",
         "children": [
           {
-            "id": "bddb2c6f18479e0f",
+            "id": "ba23e2394bf7ee62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/7moSemestre/Seguridad Informatica/Seguridad Informática.md",
+                "file": "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Paginas web estaticas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Paginas web estaticas"
+            }
+          },
+          {
+            "id": "13de0a8391216cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP/InicioPHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seguridad Informática"
+              "title": "InicioPHP"
+            }
+          },
+          {
+            "id": "4c122ce98f6f9c5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "ba37c6d75e98e53b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Aplicacion web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aplicacion web"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9db841102b687d2b",
@@ -166,53 +205,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bddb2c6f18479e0f",
+  "active": "13de0a8391216cfa",
   "lastOpenFiles": [
-    "Proyectos/7moSemestre/Seguridad Informatica/Historia y Estructura de la Información.md",
-    "Proyectos/7moSemestre/Seguridad Informatica/Seguridad Informática.md",
-    "Proyectos/7moSemestre/Seguridad Informatica/¿Qué es la seguridad informática?.md",
-    "Proyectos/7moSemestre/Seguridad Informatica/Sin título.md",
-    "Toma de decisiones.md",
-    "Pasted image 20250825080959.png",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Análisis y Toma de Decisiones.md",
-    "Proyectos/7moSemestre/Séptimo Semestre.md",
-    "Proyectos/7moSemestre/Tareas.md",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Civilización.md",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Cultura.md",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Ideologías.md",
+    "Modelo Cliente Servidor.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP/InicioPHP.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Introduccion a Paginas Web.md",
+    "IDE.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Compilador.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Editor de Codigo.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP.md",
+    "XAMP.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Paginas web dinamicas.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP/PHP.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Que es CSS3.md",
     "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Ciclo de Vida de los Sistemas de Información.md",
-    "Proyectos/7moSemestre/Francés/Frases Comunes.md",
-    "Proyectos/Pendientes/LargoPlazo.md",
-    "Colores.md",
-    "Proyectos/Pendientes/Informiauticos/Base del Contenido.md",
-    "Recuerdo.base",
-    "Proyectos/Pendientes/Inicio.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Paginas web estaticas.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Aplicacion web.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/CSS",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/HTML",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Que es HTML5.md",
+    "Proyectos/Git y GitHub/Reconstruir.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/HTML/HTML.md",
+    "Buenas practicas en el desarrollo web.md",
+    "Aplicaciones web y software libre.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Tecnología.md",
+    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Toma de decisiones.md",
+    "Proyectos/7moSemestre/Francés/Colores.md",
     "Tipos de Notas.md",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250825080959.png",
+    "Proyectos/Git y GitHub/Primeros pasos.md",
+    "Proyectos/Git y GitHub/Git.md",
+    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web",
+    "Sin título 1.md",
+    "Recuerdo.base",
     "Proyectos/7moSemestre/Imagenes/Sin título.base",
-    "Linux/Hogar de Facilidades.md",
-    "Linux/VisualizarTemp.md",
-    "Proyectos/Pendientes/LocalAI/VENV.md",
     "Proyectos/7moSemestre/Sin título.base",
-    "Proyectos/ProyectoUni/Mediano Impacto.md",
-    "Proyectos/ProyectoUni/Proyecto UnamIA.md",
-    "Proyectos/ProyectoUni/Fuerte Impacto.md",
-    "Proyectos/ProyectoUni/Sin título 2.md",
-    "Proyectos/ProyectoUni/Sin título 1.md",
     "Proyectos/Redes/Sin título.canvas",
     "Proyectos/Redes/Sin título 1.canvas",
     "Proyectos/ProyectoUni",
     "Proyectos/7moSemestre/Laboratorio de Sistemas de Información",
     "Proyectos/7moSemestre/Análisis y Toma de Decisiones",
-    "Proyectos/7moSemestre/Seguridad Informatica",
     "Proyectos/7moSemestre/Imagenes/WhatsApp Image 2025-08-17 at 18.44.28.jpeg",
     "Proyectos/7moSemestre/Imagenes/Pasted image 20250821112536.png",
     "Proyectos/7moSemestre/Imagenes/Pasted image 20250821112233.png",
     "Proyectos/7moSemestre/Imagenes/Pasted image 20250821111851.png",
     "Proyectos/7moSemestre/Imagenes/Pasted image 20250821110554.png",
     "Proyectos/7moSemestre/Imagenes/Pasted image 20250818115019.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250818083925.png",
-    "Proyectos/7moSemestre/Imagenes",
-    "Proyectos/7moSemestre/Francés",
-    "Proyectos/7moSemestre"
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250818083925.png"
   ]
 }

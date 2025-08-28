@@ -21,6 +21,11 @@
 | Prácticas            | 50%   |
 | Total                | 100%  |
 
+## Temas de Estudio
+
 1. [[¿Qué es la seguridad informática?]]
 2. [[Historia y Estructura de la Información]]
-3. 
+
+## Tareas y Pendientes Resueltos.
+
+3. [[Objetivos]]
