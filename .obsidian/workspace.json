@@ -13,12 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Paginas web estaticas.md",
+                "file": "Proyectos/7moSemestre/Francés/Nacionalidad.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Paginas web estaticas"
+              "title": "Nacionalidad"
+            }
+          },
+          {
+            "id": "b18567f57b2310fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/7moSemestre/Francés/Nacionalidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nacionalidad"
+            }
+          },
+          {
+            "id": "20028ccd27760b9c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Proyectos/7moSemestre/Imagenes/Pasted image 20250904134851.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250904134851"
             }
           },
           {
@@ -27,40 +53,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP/InicioPHP.md",
+                "file": "Proyectos/Git y GitHub/Atajos condicionados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InicioPHP"
+              "title": "Atajos condicionados"
             }
           },
           {
             "id": "4c122ce98f6f9c5b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "ba37c6d75e98e53b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Aplicacion web.md",
+                "file": "Proyectos/7moSemestre/Seguridad Informatica/Diagrama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aplicacion web"
+              "title": "Diagrama"
+            }
+          },
+          {
+            "id": "6ebdc103edfb23a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,53 +231,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "13de0a8391216cfa",
+  "active": "5f60e060b882f65a",
   "lastOpenFiles": [
-    "Modelo Cliente Servidor.md",
+    "Idea de IA.md",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250904134909.png",
+    "Proyectos/7moSemestre/Seguridad Informatica/Pasted image 20250829131755.png",
+    "Proyectos/7moSemestre/Francés/040925.md",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250904145441.png",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250904144941.png",
+    "Proyectos/Git y GitHub/Atajos condicionados.md",
+    "Proyectos/7moSemestre/Seguridad Informatica/Diagrama.md",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250904141755.png",
+    "Proyectos/7moSemestre/Seguridad Informatica/ISO27000.md",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250904135648.png",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250904134851.png",
+    "Proyectos/Pendientes/LocalAI/VENV.md",
+    "Proyectos/Pendientes/LocalAI/Ollama.md",
+    "Proyectos/Pendientes/LocalAI/Recordando como usar Ollama.md",
+    "Proyectos/Obsidian/Tablas.md",
+    "Proyectos/Pendientes/LargoPlazo.md",
+    "Proyectos/Pendientes/Inicio.md",
+    "Proyectos/7moSemestre/Seguridad Informatica/Cuadro para SI.md",
+    "Proyectos/Laptop/XAMPP.md",
+    "Linux/Hogar de Facilidades.md",
+    "Linux/VisualizarTemp.md",
     "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP/InicioPHP.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Introduccion a Paginas Web.md",
-    "IDE.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Compilador.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Editor de Codigo.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP.md",
-    "XAMP.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Paginas web dinamicas.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP/PHP.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Que es CSS3.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Ciclo de Vida de los Sistemas de Información.md",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250902124826.png",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250902124804.png",
+    "Proyectos/7moSemestre/Imagenes/Pasted image 20250818115019.png",
+    "Proyectos/7moSemestre/Francés/Ahggg.md",
+    "Proyectos/7moSemestre/Francés/Francés.md",
+    "Proyectos/7moSemestre/Francés/Mois de l'année - Meses del año.md",
+    "Proyectos/7moSemestre/Francés/Jours de la semaine - Días de la Semana.md",
+    "Proyectos/7moSemestre/Francés/Nacionalidad.md",
+    "Proyectos/7moSemestre/Francés/Alfabeto Fónetico.md",
+    "Proyectos/7moSemestre/Francés/Nombres - Números.md",
+    "Sin título.md",
+    "Proyectos/7moSemestre/Francés/Colores.md",
+    "Proyectos/Laptop/webApi",
+    "Proyectos/Laptop",
     "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/PHP",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Paginas web estaticas.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Aplicacion web.md",
     "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/CSS",
     "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/HTML",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/Que es HTML5.md",
-    "Proyectos/Git y GitHub/Reconstruir.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web/HTML/HTML.md",
-    "Buenas practicas en el desarrollo web.md",
-    "Aplicaciones web y software libre.md",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Tecnología.md",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones/Toma de decisiones.md",
-    "Proyectos/7moSemestre/Francés/Colores.md",
-    "Tipos de Notas.md",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250825080959.png",
-    "Proyectos/Git y GitHub/Primeros pasos.md",
-    "Proyectos/Git y GitHub/Git.md",
     "Proyectos/7moSemestre/Laboratorio de Sistemas de Información/Introduccion a Web",
-    "Sin título 1.md",
     "Recuerdo.base",
     "Proyectos/7moSemestre/Imagenes/Sin título.base",
     "Proyectos/7moSemestre/Sin título.base",
     "Proyectos/Redes/Sin título.canvas",
     "Proyectos/Redes/Sin título 1.canvas",
-    "Proyectos/ProyectoUni",
-    "Proyectos/7moSemestre/Laboratorio de Sistemas de Información",
-    "Proyectos/7moSemestre/Análisis y Toma de Decisiones",
-    "Proyectos/7moSemestre/Imagenes/WhatsApp Image 2025-08-17 at 18.44.28.jpeg",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250821112536.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250821112233.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250821111851.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250821110554.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250818115019.png",
-    "Proyectos/7moSemestre/Imagenes/Pasted image 20250818083925.png"
+    "Proyectos/ProyectoUni"
   ]
 }
